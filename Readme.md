@@ -27,9 +27,8 @@
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
-
+  <!-- Java로고 확인, C추가 -->
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhyun22&show_icons=true&theme=buefy)
