@@ -36,7 +36,9 @@
 
 <!-- status -->
 <div align=center>
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhyun22&show_icons=true&theme=buefy)
+  
 </div>
 
 <!-- productive-box  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  -->
