@@ -1,5 +1,7 @@
 <!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Juhyun%20Github&fontSize=40" />
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Juhyun%20Github&fontSize=40" />
+</div>
 
 <!-- 배지 부분 -->
 <div align=center><h1>Tech Stack</h1></div>
