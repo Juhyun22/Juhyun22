@@ -6,7 +6,6 @@
 
 <!-- 배지 부분 -->
 <div align=center><h1>🛠 Tech Stack🛠 </h1></div>
-<br>
 
 <div align=center> 
   <h3>Techs that I've used at least once</h3>
